@@ -53,7 +53,7 @@ uv --version
 
 If these commands are blocked on a managed computer, see the [official uv installation options](https://docs.astral.sh/uv/getting-started/installation/) or ask an instructor.
 
-### 2. Create the course environment
+### 2. Create an environment
 
 Open a terminal in this `prep` directory and run:
 
@@ -91,18 +91,6 @@ print(matplotlib.__version__)
 ```
 
 The first printed line should contain `prep/.venv` on macOS/Linux or `prep\.venv` on Windows. The second line should show the installed Matplotlib version. If `.venv` is not listed, run `uv sync` again, then use **Developer: Reload Window** from the VS Code Command Palette and reopen the kernel picker.
-
-## Supplied data
-
-`shared_data/randalls_fish/` contains the small fish image and landmark dataset already used by the previous CV4Ecology assignments. It contains ten JPG images and ten matching CSV annotation files.
-
-The photographs are provided with the kind permission of the Bishop Museum for
-research and educational use. Credit them as **“Photographs by J.E. Randall,
-Bishop Museum, Honolulu.”** See [`ATTRIBUTION.md`](ATTRIBUTION.md) and the
-[dataset notice](shared_data/randalls_fish/README.md) for provenance and rights
-information.
-
-Do not add a student's research data to this repository. Students should use a small local sample and edit the path in the exercise as instructed.
 
 ## License
 
