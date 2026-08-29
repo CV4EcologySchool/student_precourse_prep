@@ -31,7 +31,7 @@ Session 3 examined how a table describes each student's own collection. This
 session deliberately returns briefly to shared fish data so the class
 mechanics are consistent for everyone.
 
-## Required own-data visualization
+## Visualize on your own data
 
 The second half of the notebook returns to the student's own data. Each student
 must display several media samples together with their labels or annotations.

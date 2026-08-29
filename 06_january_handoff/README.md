@@ -8,18 +8,6 @@ The goal is not to copy or process the full dataset. You should leave
 with a concrete plan for creating a subset that is small enough to inspect and
 debug, but still contains the kinds of samples your code must handle.
 
-## Bring to the meeting
-
-- the location of the full dataset, or a description if it cannot be opened
-  during the meeting;
-- an approximate file or sample count and storage size, if known;
-- the metadata or annotation table, or a few representative rows;
-- the small sample used in earlier sessions;
-- any code already used to list, filter, or load the data.
-
-Do not include passwords, access tokens, sensitive locations, or restricted
-data in the written notes.
-
 ## Decide together
 
 You and your instructor should make project-specific decisions about:
@@ -43,27 +31,14 @@ You and your instructor should make project-specific decisions about:
    metadata should stay together unless the purpose is specifically to test
    missing-data behavior.
 
-This development subset is **not** the eventual train/validation/test split.
-Formal splitting, leakage prevention, and class-balancing decisions belong in
-the course and should use the full project context.
+This development subset is for quick prototyping of methods so you will iterate quicker during the course.
+Data splitting, and other experimental considerations will be discussed during the course.
 
 ## Leave with an individual plan
 
 Complete [`handoff_notes.md`](handoff_notes.md) together. Record the agreed
 subset criteria, selection method, destination, and immediate next action. If
-a decision cannot yet be made, record exactly what information is missing and
-who will find it.
+a decision cannot yet be made, record exactly what information is missing.
 
-If time permits, load one complete sample from the proposed subset or sketch
-the few lines of filtering code needed to create it. A finished subset is not
-required during this meeting.
 
-## What still waits until the course
 
-- final framing of the CV task;
-- data splitting and leakage decisions;
-- choosing a model or codebase;
-- installing the workshop training stack;
-- full-dataset transfer;
-- GPU training;
-- metrics, evaluation, model improvement, and downstream ecological analysis.

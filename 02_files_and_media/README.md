@@ -37,7 +37,7 @@ Audio/video students can read `modality_examples.py`. It shows the equivalent id
 
 `optional_image_transformations.py` contains resizing, cropping, grayscale, and flipping examples adapted from the previous Files and Images assignment. For each transformation, ask whether it preserves the ecological meaning of your target.
 
-## Supplementary references
+## Extra reading
 
 Use only the relevant parts of these maintained lessons if you need another explanation:
 
