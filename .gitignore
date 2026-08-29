@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+outputs/
+student_data/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.DS_Store

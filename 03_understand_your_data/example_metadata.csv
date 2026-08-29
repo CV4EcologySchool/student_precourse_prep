@@ -1,0 +1,26 @@
+sample_id,filename,species,site,deployment,timestamp,annotation_status,quality_note
+S001,site_a_001.jpg,deer,north,N1,2026-05-01 05:12,labeled,
+S002,site_a_002.jpg,deer,north,N1,2026-05-01 05:13,labeled,
+S003,site_a_003.jpg,empty,north,N1,2026-05-01 06:45,labeled,
+S004,site_a_004.jpg,fox,north,N2,2026-05-03 21:10,labeled,
+S005,site_a_005.jpg,fox,north,N2,2026-05-03 21:11,labeled,blurred
+S006,site_a_006.jpg,,north,N2,2026-05-04 02:00,unlabeled,
+S007,site_b_001.jpg,empty,south,S1,2026-05-02 10:05,labeled,
+S008,site_b_002.jpg,empty,south,S1,2026-05-02 10:06,labeled,
+S009,site_b_003.jpg,deer,south,S1,2026-05-02 18:30,labeled,
+S010,site_b_004.jpg,deer,south,S2,2026-05-06 18:31,labeled,partial animal
+S011,site_b_005.jpg,raccoon,south,S2,2026-05-06 23:45,labeled,
+S012,site_b_006.jpg,,south,S2,2026-05-07 00:10,unlabeled,
+S013,site_c_001.jpg,bear,east,E1,2026-05-08 04:20,labeled,
+S014,site_c_002.jpg,bear,east,E1,2026-05-08 04:21,labeled,
+S015,site_c_003.jpg,bear,east,E1,2026-05-08 04:22,labeled,low light
+S016,site_c_004.jpg,empty,east,E2,2026-05-09 12:00,labeled,
+S017,site_c_005.jpg,raccoon,east,E2,2026-05-09 23:02,labeled,
+S018,site_c_006.jpg,,east,E2,2026-05-10 01:11,unlabeled,corrupt
+S019,site_d_001.jpg,deer,west,W1,2026-05-11 07:35,labeled,
+S020,site_d_002.jpg,deer,west,W1,2026-05-11 07:36,labeled,
+S021,site_d_003.jpg,empty,west,W1,2026-05-11 09:00,labeled,
+S022,site_d_004.jpg,fox,west,W2,2026-05-12 20:14,labeled,
+S023,site_d_005.jpg,raccoon,west,W2,2026-05-13 00:03,labeled,overexposed
+S024,site_d_006.jpg,,west,W2,2026-05-13 01:55,unlabeled,
+
