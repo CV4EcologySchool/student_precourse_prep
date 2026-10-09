@@ -8,12 +8,12 @@ This README and the numbered session folders are for students.
 
 | Session | Timing | Focus | Main student result |
 |---|---|---|---|
-| 1 | September | Cohort kickoff and setup | Meet the group; complete the setup check afterward |
-| 2 | October | Python, files, and media | Find and display supplied media with Python |
-| 3 | Early November | Exploratory analysis of your data | Inspect your own metadata and bring one useful plot and data question |
-| 4 | Late November | Media, labels, and dataset objects | Visualize your own labels on several samples and build a small dataset class |
-| 5 | Early December | Git and remote computing | Make one Git-tracked change; understand an SSH login |
-| 6 | Mid/late December | Individual data-subset planning | Agree with instructors on a manageable, representative working subset and next steps |
+| 1 | September | [Cohort kickoff and setup](01_kickoff_and_setup) | Meet the group; complete the setup check afterward |
+| 2 | October | [Python, files, and media](02_files_and_media) | Find and display supplied media with Python |
+| 3 | Early November | [Exploratory analysis of your data](03_understand_your_data) | Inspect your own metadata and bring one useful plot and data question |
+| 4 | Late November | [Media, labels, and dataset objects](04_media_and_annotations) | Visualize your own labels on several samples and build a small dataset class |
+| 5 | Early December | [Git and remote computing](05_git_and_remote) | Make one Git-tracked change; understand an SSH login |
+| 6 | Mid/late December | [Individual data-subset planning](06_january_handoff) | Agree with instructors on a manageable, representative working subset and next steps |
 
 Core work outside a meeting should take no more than 30–45 minutes. Optional sections are genuinely optional.
 
