@@ -10,3 +10,4 @@ student_data/
 *.key
 *.pem
 .DS_Store
+01_kickoff_and_setup/setup.ipynb
